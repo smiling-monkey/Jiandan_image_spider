@@ -1,2 +1,3 @@
 # jiandan_image_spider
-煎蛋妹子图爬取程序，链接地址http://jandan.net/ooxx
+将煎蛋妹子图（http://jandan.net/ooxx） 爬取到本地
+使用httpclient制作
